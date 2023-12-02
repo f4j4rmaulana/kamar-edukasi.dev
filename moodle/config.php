@@ -18,7 +18,7 @@ $CFG->dboptions = array(
     'dbcollation' => 'utf8mb4_general_ci',
 );
 
-$CFG->wwwroot = 'https://fmaulana.my.id/moodle/';
+$CFG->wwwroot = 'https://fmaulana.my.id/moodle';
 $CFG->dataroot = '/home/fmad1793/moodledata';
 $CFG->admin = 'admin';
 
