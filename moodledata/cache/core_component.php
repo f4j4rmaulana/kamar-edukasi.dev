@@ -579,6 +579,7 @@ $cache = array (
     array (
       'boost' => 'C:\\xampp\\htdocs\\kamar-edukasi.dev\\moodle/theme/boost',
       'classic' => 'C:\\xampp\\htdocs\\kamar-edukasi.dev\\moodle/theme/classic',
+      'moove' => 'C:\\xampp\\htdocs\\kamar-edukasi.dev\\moodle/theme/moove',
     ),
     'local' => 
     array (
@@ -4724,6 +4725,17 @@ $cache = array (
     'theme_classic\\output\\core_renderer' => 'C:\\xampp\\htdocs\\kamar-edukasi.dev\\moodle/theme/classic/classes/output/core_renderer.php',
     'theme_classic\\output\\icon_system_fontawesome' => 'C:\\xampp\\htdocs\\kamar-edukasi.dev\\moodle/theme/classic/classes/output/icon_system_fontawesome.php',
     'theme_classic\\privacy\\provider' => 'C:\\xampp\\htdocs\\kamar-edukasi.dev\\moodle/theme/classic/classes/privacy/provider.php',
+    'theme_moove\\api\\accessibility' => 'C:\\xampp\\htdocs\\kamar-edukasi.dev\\moodle/theme/moove/classes/api/accessibility.php',
+    'theme_moove\\output\\core\\course_renderer' => 'C:\\xampp\\htdocs\\kamar-edukasi.dev\\moodle/theme/moove/classes/output/core/course_renderer.php',
+    'theme_moove\\output\\core_course\\activity_navigation' => 'C:\\xampp\\htdocs\\kamar-edukasi.dev\\moodle/theme/moove/classes/output/core_course/activity_navigation.php',
+    'theme_moove\\output\\core_renderer' => 'C:\\xampp\\htdocs\\kamar-edukasi.dev\\moodle/theme/moove/classes/output/core_renderer.php',
+    'theme_moove\\output\\core_user\\myprofile_renderer' => 'C:\\xampp\\htdocs\\kamar-edukasi.dev\\moodle/theme/moove/classes/output/core_user/myprofile_renderer.php',
+    'theme_moove\\output\\renderer' => 'C:\\xampp\\htdocs\\kamar-edukasi.dev\\moodle/theme/moove/classes/output/renderer.php',
+    'theme_moove\\privacy\\provider' => 'C:\\xampp\\htdocs\\kamar-edukasi.dev\\moodle/theme/moove/classes/privacy/provider.php',
+    'theme_moove\\util\\course' => 'C:\\xampp\\htdocs\\kamar-edukasi.dev\\moodle/theme/moove/classes/util/course.php',
+    'theme_moove\\util\\extras' => 'C:\\xampp\\htdocs\\kamar-edukasi.dev\\moodle/theme/moove/classes/util/extras.php',
+    'theme_moove\\util\\settings' => 'C:\\xampp\\htdocs\\kamar-edukasi.dev\\moodle/theme/moove/classes/util/settings.php',
+    'theme_moove\\util\\user' => 'C:\\xampp\\htdocs\\kamar-edukasi.dev\\moodle/theme/moove/classes/util/user.php',
     'tiny_accessibilitychecker\\plugininfo' => 'C:\\xampp\\htdocs\\kamar-edukasi.dev\\moodle/lib/editor/tiny/plugins/accessibilitychecker/classes/plugininfo.php',
     'tiny_accessibilitychecker\\privacy\\provider' => 'C:\\xampp\\htdocs\\kamar-edukasi.dev\\moodle/lib/editor/tiny/plugins/accessibilitychecker/classes/privacy/provider.php',
     'tiny_accessibilitychecker_plugininfo' => 'C:\\xampp\\htdocs\\kamar-edukasi.dev\\moodle/lib/editor/tiny/plugins/accessibilitychecker/classes/plugininfo.php',
@@ -5766,6 +5778,7 @@ $cache = array (
       array (
         'boost' => 'C:\\xampp\\htdocs\\kamar-edukasi.dev\\moodle/theme/boost/lib.php',
         'classic' => 'C:\\xampp\\htdocs\\kamar-edukasi.dev\\moodle/theme/classic/lib.php',
+        'moove' => 'C:\\xampp\\htdocs\\kamar-edukasi.dev\\moodle/theme/moove/lib.php',
       ),
       'local' => 
       array (
@@ -6138,6 +6151,7 @@ $cache = array (
       array (
         'boost' => 'C:\\xampp\\htdocs\\kamar-edukasi.dev\\moodle/theme/boost/settings.php',
         'classic' => 'C:\\xampp\\htdocs\\kamar-edukasi.dev\\moodle/theme/classic/settings.php',
+        'moove' => 'C:\\xampp\\htdocs\\kamar-edukasi.dev\\moodle/theme/moove/settings.php',
       ),
       'local' => 
       array (
