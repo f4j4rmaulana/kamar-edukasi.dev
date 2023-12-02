@@ -19,7 +19,7 @@ $CFG->dboptions = array(
 );
 
 $CFG->wwwroot = 'https://fmaulana.my.id/moodle/';
-$CFG->dataroot = 'https://fmaulana.my.id/moodledata/';
+$CFG->dataroot = '/home/fmad1793/moodledata';
 $CFG->admin = 'admin';
 
 $CFG->directorypermissions = 0777;
