@@ -1,0 +1,6 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/fmad1793/public_html/
+    - /bin/cp -R moodle $DEPLOYPATH
+    - /bin/cp -R moodledata $DEPLOYPATH
