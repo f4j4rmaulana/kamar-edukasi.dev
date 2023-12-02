@@ -8,8 +8,8 @@ $CFG->dbtype = 'mariadb';
 $CFG->dblibrary = 'native';
 $CFG->dbhost = 'localhost';
 $CFG->dbname = 'fmad1793_moodle';
-$CFG->dbuser = 'fmad1793_f4j4rmaulana';
-$CFG->dbpass = 'f4j4rmaulana';
+$CFG->dbuser = 'root';
+$CFG->dbpass = '';
 $CFG->prefix = 'mdl_';
 $CFG->dboptions = array(
     'dbpersist' => 0,
@@ -18,8 +18,8 @@ $CFG->dboptions = array(
     'dbcollation' => 'utf8mb4_general_ci',
 );
 
-$CFG->wwwroot = 'https://fmaulana.my.id/moodle/';
-$CFG->dataroot = 'https://fmaulana.my.id/moodledata/';
+$CFG->wwwroot = 'http://localhost/kamar-edukasi.dev/moodle';
+$CFG->dataroot = 'C:\\xampp\\htdocs\\kamar-edukasi.dev\\moodledata';
 $CFG->admin = 'admin';
 
 $CFG->directorypermissions = 0777;
